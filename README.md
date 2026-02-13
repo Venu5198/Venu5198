@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>Hi, I’m K Venu, a DevOps Engineer with 3.6 years of hands-on experience building and running cloud-native platforms.<br><br>I work primarily with AWS, Google Cloud, Kubernetes, and CI/CD systems, supporting 20+ microservices in production. My focus is simple: reliability, automation, and cost efficiency.<br><br>💻 What I Do<br><br>Design and operate Kubernetes-based platforms handling millions of requests per day<br><br>Build and optimize CI/CD pipelines using GitHub Actions and Jenkins<br><br>Implement GitOps workflows with Argo CD<br><br>Drive autoscaling, resource optimization, and cost control<br><br>Achieved 99.9%+ availability<br><br>Reduced cloud spend by 20–25%<br><br>Optimize Docker images for faster builds and deployments<br><br>Deliver zero-downtime releases using rolling and blue-green deployments<br><br>📊 Reliability & Observability<br><br>Set up monitoring and alerting with Prometheus, Grafana, and Splunk<br><br>Improved incident detection and recovery times by 30–35%<br><br>Made on-call more predictable and less reactive<br><br>🔐 Security & Governance<br><br>Secure CI/CD pipelines<br><br>Manage secrets safely<br><br>Enforce RBAC and least-privilege access<br><br>Keep environments audit-ready<br><br>🎓 Certifications<br><br>Google Cloud – Associate Cloud Engineer<br><br>🚀 What I Care About<br><br>I enjoy solving problems where DevOps makes a real impact:<br><br>Faster releases<br><br>Stable production systems<br><br>Fewer manual errors<br><br>Continuous platform improvement<br><br>I’m excited about opportunities where I can contribute to scalable, reliable engineering systems and help teams ship with confidence.<br><br>🔭 I’m currently working on<br>Cloud-native DevOps platforms on AWS and Google Cloud, with a strong focus on Kubernetes, CI/CD automation, and production reliability.<br><br>👯 I’m looking to collaborate on<br>Open-source DevOps and platform engineering projects involving Kubernetes, GitOps, GitHub Actions, and cloud cost optimization.<br><br>🤝 I’m looking for help with<br>Advanced Kubernetes internals, large-scale cluster optimization, and real-world SRE practices at scale.<br><br>🌱 I’m currently learning<br>Deep Kubernetes networking and security, Argo ecosystem (CD, Rollouts), and cloud-native cost governance.<br><br>💬 Ask me about<br>Kubernetes, GitHub Actions, CI/CD design, GitOps, Docker optimization, observability, and cloud cost control.<br><br>⚡ Fun fact<br>I enjoy breaking pipelines on purpose—because fixing real failures teaches more than perfect demos.<br>
 
-<!--
-**Venu5198/Venu5198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Venu Krishnaya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Venu K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venukrishnaya@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Venu5198&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Venu5198&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu5198&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Venu5198&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
