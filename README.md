@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/github/followers/Venu5198?label=Followers&style=flat-square" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Venu5198?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2ea043?style=flat-square" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-2ea043?style=flat-square" alt="GitHub repositories" />
+  </a>
+  <a href="https://www.credly.com/users/venu-krishnaya">
+    <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly verified badges" />
   </a>
 </p>
 
@@ -25,35 +28,36 @@ I'm **K. Venu**, a DevOps Engineer with **3.6+ years of hands-on experience** bu
 
 My primary focus is **Kubernetes, AWS, Google Cloud, CI/CD, GitOps, infrastructure automation, observability, and cloud cost optimization**.
 
-I enjoy working on systems where engineering decisions directly improve:
+I work on engineering problems where automation and platform improvements directly contribute to:
 
-* 🚀 Deployment speed and developer productivity
-* ⚙️ Platform reliability and operational efficiency
-* ☁️ Cloud infrastructure scalability
-* 💰 Infrastructure cost efficiency
-* 🔐 Security and access control
-* 📊 Observability and incident response
+- 🚀 Faster and safer deployments
+- ⚙️ Reliable production systems
+- ☁️ Scalable cloud infrastructure
+- 💰 Cloud cost optimization
+- 🔐 Secure infrastructure and access control
+- 📊 Better observability and incident response
 
-I've worked with production environments supporting **20+ microservices**, implementing automated delivery, containerized workloads, Kubernetes-based infrastructure, and reliability practices.
+I've worked with production environments supporting **20+ microservices**, implementing containerized workloads, automated delivery pipelines, Kubernetes platforms, and reliability practices.
 
 ---
 
 ## 🎯 Engineering Focus
 
-| Area               | Focus                                     |
-| ------------------ | ----------------------------------------- |
-| ☁️ Cloud           | AWS, Google Cloud                         |
-| ☸️ Containers      | Docker, Kubernetes                        |
-| 🔄 CI/CD           | GitHub Actions, Jenkins                   |
-| 🚀 GitOps          | Argo CD, Argo Rollouts                    |
-| 🏗️ Infrastructure | Terraform, Ansible                        |
-| 📊 Observability   | Prometheus, Grafana, Splunk               |
-| 🔐 Security        | RBAC, Secrets Management, Least Privilege |
-| 🐍 Backend         | Python, FastAPI                           |
-| 🗄️ Databases      | PostgreSQL, MongoDB                       |
-| 🌐 Networking      | Nginx, Kubernetes Networking              |
-| 🐧 Systems         | Linux, Bash                               |
-| 🛠️ Collaboration  | GitHub, Jira, Slack, Notion               |
+| Area | Focus |
+|---|---|
+| ☁️ Cloud | AWS, Google Cloud |
+| ☸️ Containers | Docker, Kubernetes |
+| 🔄 CI/CD | GitHub Actions, Jenkins |
+| 🚀 GitOps | Argo CD, Argo Rollouts |
+| 🏗️ Infrastructure | Terraform, Ansible |
+| 📊 Observability | Prometheus, Grafana, Splunk |
+| 🔐 Security | RBAC, Secrets Management, Least Privilege |
+| 🐍 Backend | Python, FastAPI |
+| 🗄️ Databases | PostgreSQL, MongoDB |
+| 🌐 Networking | Nginx, Kubernetes Networking |
+| 🐧 Systems | Linux, Bash |
+| 🤖 Automation | Python, APIs, n8n |
+| 🛠️ Collaboration | GitHub, Jira, Slack, Notion |
 
 ---
 
@@ -61,15 +65,15 @@ I've worked with production environments supporting **20+ microservices**, imple
 
 Some of the areas I've focused on in production environments:
 
-* **99.9%+ service availability** through reliability and operational improvements
-* **20–25% cloud cost reduction** through resource optimization and cost-control practices
-* Supported **20+ production microservices**
-* Designed Kubernetes-based platforms handling **high-volume production workloads**
-* Improved incident detection and recovery processes by approximately **30–35%**
-* Implemented **rolling and blue-green deployment strategies**
-* Optimized Docker images to reduce build and deployment overhead
-* Built automated CI/CD pipelines to reduce manual deployment work
-* Implemented GitOps-based application delivery using Argo CD
+- **99.9%+ service availability** through reliability and operational improvements
+- **20–25% cloud cost reduction** through resource optimization and cost-control practices
+- Supported **20+ production microservices**
+- Designed and operated Kubernetes-based production workloads
+- Improved incident detection and recovery processes by approximately **30–35%**
+- Implemented **rolling and blue-green deployment strategies**
+- Optimized Docker images for faster builds and deployments
+- Built automated CI/CD pipelines to reduce manual deployment work
+- Implemented GitOps-based application delivery using **Argo CD**
 
 ---
 
@@ -79,7 +83,7 @@ Some of the areas I've focused on in production environments:
 
 Automated cloud-cost optimization workflows designed to identify unused and underutilized resources and safely reduce unnecessary infrastructure spending.
 
-**Focus:**
+**Focus:**  
 `GCP` `Python` `Automation` `Cost Optimization` `Cloud Operations`
 
 ---
@@ -88,7 +92,7 @@ Automated cloud-cost optimization workflows designed to identify unused and unde
 
 Building automation workflows for repetitive DevOps operations such as infrastructure checks, deployment workflows, incident handling, notifications, and operational reporting.
 
-**Focus:**
+**Focus:**  
 `n8n` `APIs` `Python` `GitHub` `Cloud` `DevOps Automation`
 
 ---
@@ -97,7 +101,7 @@ Building automation workflows for repetitive DevOps operations such as infrastru
 
 Exploring production-grade Kubernetes architecture, networking, security, scaling, deployment strategies, and cluster optimization.
 
-**Focus:**
+**Focus:**  
 `Kubernetes` `Docker` `Helm` `Argo CD` `Argo Rollouts` `RBAC`
 
 ---
@@ -106,8 +110,46 @@ Exploring production-grade Kubernetes architecture, networking, security, scalin
 
 Building reusable CI/CD and GitOps patterns for automated testing, container builds, deployments, rollbacks, and environment management.
 
-**Focus:**
+**Focus:**  
 `GitHub Actions` `Jenkins` `Argo CD` `Docker` `Kubernetes`
+
+---
+
+## 🏅 Verified Cloud Credentials
+
+I maintain verified learning credentials and skill badges through Credly, including **Google Cloud** and **AWS** credentials.
+
+<p align="center">
+
+<a href="https://www.credly.com/users/venu-krishnaya">
+  <img src="https://img.shields.io/badge/VIEW%20MY-CREDLY%20BADGES-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View my Credly badges" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Google Cloud Skill Badges</b> •
+  <b>AWS Knowledge Badges</b> •
+  <b>Cloud & Data Engineering</b>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/venu-krishnaya">
+    View all verified credentials on Credly →
+  </a>
+</p>
+
+---
+
+## 🎓 Professional Certification
+
+**Google Cloud – Associate Cloud Engineer**
+
+For my verified learning credentials and skill badges:
+
+<a href="https://www.credly.com/users/venu-krishnaya">
+  **View my Credly profile →**
+</a>
 
 ---
 
@@ -137,6 +179,7 @@ Building reusable CI/CD and GitOps patterns for automated testing, container bui
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
 </p>
 
@@ -174,47 +217,41 @@ Building reusable CI/CD and GitOps patterns for automated testing, container bui
 
 ## 📚 Currently Learning
 
-* Advanced Kubernetes networking and cluster internals
-* Kubernetes security and workload isolation
-* Argo CD and Argo Rollouts
-* Advanced GitOps patterns
-* Cloud-native cost governance
-* SRE practices and reliability engineering
-* Large-scale Kubernetes optimization
-* DevOps and platform engineering automation
+- Advanced Kubernetes networking and cluster internals
+- Kubernetes security and workload isolation
+- Argo CD and Argo Rollouts
+- Advanced GitOps patterns
+- Cloud-native cost governance
+- SRE practices and reliability engineering
+- Large-scale Kubernetes optimization
+- DevOps and platform engineering automation
 
 ---
 
 ## 🤝 Open to Collaboration
 
-I'm interested in collaborating on open-source and practical engineering projects involving:
+I'm interested in collaborating on practical and open-source projects involving:
 
-* Kubernetes & Platform Engineering
-* DevOps automation
-* GitOps
-* CI/CD
-* Cloud infrastructure
-* Cloud cost optimization
-* Observability
-* Python backend automation
-* Developer tooling
+- Kubernetes & Platform Engineering
+- DevOps automation
+- GitOps
+- CI/CD
+- Cloud infrastructure
+- Cloud cost optimization
+- Observability
+- Python backend automation
+- Developer tooling
 
 If you're building something in these areas, feel free to connect.
 
 ---
 
-## 🎓 Certification
-
-**Google Cloud – Associate Cloud Engineer**
-
----
-
 ## 💡 Engineering Philosophy
 
-> Automate repetitive work.
-> Design for failure.
-> Measure what matters.
-> Keep infrastructure simple.
+> Automate repetitive work.  
+> Design for failure.  
+> Measure what matters.  
+> Keep infrastructure simple.  
 > Make production safer with every change.
 
 ---
@@ -226,11 +263,15 @@ If you're building something in these areas, feel free to connect.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Venu5198&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top programming languages" />
 </p>
 
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Venu5198&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
+
+---
 
 ## 💭 Dev Quote
 
@@ -246,10 +287,17 @@ If you're building something in these areas, feel free to connect.
   <a href="https://www.linkedin.com/in/venu-krishnaya-2a4460383">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:venukrishnaya@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <a href="https://www.credly.com/users/venu-krishnaya">
+    <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly profile" />
+  </a>
 </p>
+
+---
 
 <p align="center">
   <i>Building reliable systems, automating everything worth automating.</i>
